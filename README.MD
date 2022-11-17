@@ -1,4 +1,4 @@
-# send-error-slack
+# send-message-slack
 The library helps the system to send errors to slack
 
 The library helps the system to send errors to slack
